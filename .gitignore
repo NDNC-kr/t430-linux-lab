@@ -1,0 +1,17 @@
+# logs
+*.log
+
+# temp
+*.tmp
+*.cache
+
+# env
+.env
+
+# editor
+*.swp
+*.swo
+*~
+
+# system
+.DS_Store
